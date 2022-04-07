@@ -6,7 +6,7 @@ public class Main {
         CaffeineBeverage coffee = new Coffee();
 
         tea.prepareRecipe();
-        System.out.println("------");
+        System.out.println("-------");
         coffee.prepareRecipe();
     }
 }
